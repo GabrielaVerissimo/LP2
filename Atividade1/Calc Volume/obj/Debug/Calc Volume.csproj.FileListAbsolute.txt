@@ -1,0 +1,9 @@
+C:\Users\eidji\source\repos\Calc Volume\Calc Volume\bin\Debug\Calc Volume.exe.config
+C:\Users\eidji\source\repos\Calc Volume\Calc Volume\bin\Debug\Calc Volume.exe
+C:\Users\eidji\source\repos\Calc Volume\Calc Volume\bin\Debug\Calc Volume.pdb
+C:\Users\eidji\source\repos\Calc Volume\Calc Volume\obj\Debug\Calc Volume.csprojAssemblyReference.cache
+C:\Users\eidji\source\repos\Calc Volume\Calc Volume\obj\Debug\Calc_Volume.Form1.resources
+C:\Users\eidji\source\repos\Calc Volume\Calc Volume\obj\Debug\Calc_Volume.Properties.Resources.resources
+C:\Users\eidji\source\repos\Calc Volume\Calc Volume\obj\Debug\Calc Volume.csproj.GenerateResource.cache
+C:\Users\eidji\source\repos\Calc Volume\Calc Volume\obj\Debug\Calc Volume.exe
+C:\Users\eidji\source\repos\Calc Volume\Calc Volume\obj\Debug\Calc Volume.pdb
