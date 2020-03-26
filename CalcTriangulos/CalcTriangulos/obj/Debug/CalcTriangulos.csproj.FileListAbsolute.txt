@@ -1,0 +1,9 @@
+C:\Users\eidji\source\repos\CalcTriangulos\CalcTriangulos\obj\Debug\CalcTriangulos.csprojAssemblyReference.cache
+C:\Users\eidji\source\repos\CalcTriangulos\CalcTriangulos\obj\Debug\CalcTriangulos.Form1.resources
+C:\Users\eidji\source\repos\CalcTriangulos\CalcTriangulos\obj\Debug\CalcTriangulos.Properties.Resources.resources
+C:\Users\eidji\source\repos\CalcTriangulos\CalcTriangulos\obj\Debug\CalcTriangulos.csproj.GenerateResource.cache
+C:\Users\eidji\source\repos\CalcTriangulos\CalcTriangulos\bin\Debug\CalcTriangulos.exe.config
+C:\Users\eidji\source\repos\CalcTriangulos\CalcTriangulos\bin\Debug\CalcTriangulos.exe
+C:\Users\eidji\source\repos\CalcTriangulos\CalcTriangulos\bin\Debug\CalcTriangulos.pdb
+C:\Users\eidji\source\repos\CalcTriangulos\CalcTriangulos\obj\Debug\CalcTriangulos.exe
+C:\Users\eidji\source\repos\CalcTriangulos\CalcTriangulos\obj\Debug\CalcTriangulos.pdb
