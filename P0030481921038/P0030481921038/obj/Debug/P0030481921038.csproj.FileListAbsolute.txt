@@ -1,0 +1,9 @@
+C:\Users\eidji\source\repos\P0030481921038\P0030481921038\bin\Debug\P0030481921038.exe.config
+C:\Users\eidji\source\repos\P0030481921038\P0030481921038\bin\Debug\P0030481921038.exe
+C:\Users\eidji\source\repos\P0030481921038\P0030481921038\bin\Debug\P0030481921038.pdb
+C:\Users\eidji\source\repos\P0030481921038\P0030481921038\obj\Debug\P0030481921038.csprojAssemblyReference.cache
+C:\Users\eidji\source\repos\P0030481921038\P0030481921038\obj\Debug\P0030481921038.Form1.resources
+C:\Users\eidji\source\repos\P0030481921038\P0030481921038\obj\Debug\P0030481921038.Properties.Resources.resources
+C:\Users\eidji\source\repos\P0030481921038\P0030481921038\obj\Debug\P0030481921038.csproj.GenerateResource.cache
+C:\Users\eidji\source\repos\P0030481921038\P0030481921038\obj\Debug\P0030481921038.exe
+C:\Users\eidji\source\repos\P0030481921038\P0030481921038\obj\Debug\P0030481921038.pdb
